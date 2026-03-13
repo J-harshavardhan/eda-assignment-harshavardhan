@@ -111,10 +111,13 @@ Correlation heatmap
 These visualizations help reveal patterns and potential anomalies in the dataset.
 
 📁 Repository Structure
+
 eda-assignment-harshavardhan
 │
 ├── harshavardhan_eda_assignment.ipynb
+
 └── README.md
+
 ▶️ How to Run the Project
 
 Clone the repository
